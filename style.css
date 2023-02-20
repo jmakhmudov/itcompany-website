@@ -108,20 +108,22 @@ body{
   padding: 50px;
 } */
 
+.team-box {
+  width: 100vw;
+  padding: 0 5vw;
+}
+
 .Our-team {
   font-size: 55px;
   font-weight: 600;
-  color: black;
-  padding-left: 100px;
-  padding-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .card-container{
   padding: 0px;
-  margin-left: -100px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: baseline;
   gap: 50px;
 }
 
